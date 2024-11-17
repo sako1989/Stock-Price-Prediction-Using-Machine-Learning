@@ -83,8 +83,7 @@ To run this project locally, follow the steps below:
 ```plaintext
 Stock-Price-Prediction-Using-Machine-Learning/
 │
-├── data/
-│   └── dataset.csv               # Dataset used for training
+├── dataset.csv               # Dataset used for training
 │
 ├── model.py                      # Model training script
 ├── main.py                       # Streamlit app script
