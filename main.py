@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error
 import plotly.graph_objects as go
 
 # Load data
-data = pd.read_csv('data/stock_data.csv', parse_dates=['Date'])
+data = pd.read_csv('stock_data.csv', parse_dates=['Date'])
 data.set_index('Date', inplace=True)
 
 # Select target
