@@ -1,4 +1,4 @@
-##live (deploy on Streamlit Community io) : 
+# live (deploy on Streamlit Community io) : 
 https://cbam23fayqugvkbwnwoysg.streamlit.app/
 
 # Stock Price Prediction Using Machine Learning
